@@ -1,2 +1,4 @@
 # LSTM_Finance
 Walks through the process of extracting finance data and running LSTM for prediction
+
+This shows the step by step process for making a Lont Short Term Memory prediction in Python. This contains 4 Files. The first file [Total Process for Prediction](https://github.com/akniels/LSTM_Finance/blob/main/Total%20Process%20for%20Prediction.ipynb) shows the data ETL and prediction in a Jupyter Notebook. This file utilizes and walkthrough data cleansing in spark and predictions done in scikit learn. The second file [ETL_extraction](https://github.com/akniels/LSTM_Finance/blob/main/etl.py) extracts the data using the yfinance plugin using the [nasdaq_screener](https://github.com/akniels/LSTM_Finance/blob/main/nasdaq_screener.csv) in a pythonic object oriented way. The Nasdaq screeener can be found [here](https://www.nasdaq.com/market-activity/stocks/screener). The spark ETL cleans and prepares the data using spark for LSTM prediction in an object oriented way.
