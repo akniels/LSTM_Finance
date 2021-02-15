@@ -21,6 +21,7 @@ Spark Code examples
 * https://stackoverflow.com/questions/40671206/using-spark-dataframe-and-window-functions-to-calculate-the-rolling-average-retu
 * https://stackoverflow.com/questions/36725353/applying-a-window-function-to-calculate-differences-in-pyspark
 * https://riptutorial.com/apache-spark/example/22861/window-functions---sort--lead--lag---rank---trend-analysis
+* https://docs.azuredatabricks.net/_static/notebooks/gbt-regression.html
 
 Plotly
 * https://plotly.com/python/ipython-notebook-tutorial/
