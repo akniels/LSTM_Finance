@@ -12,3 +12,13 @@ Spark Code examples
 * https://www.udacity.com/course/learn-spark-at-udacity--ud2002
 * https://sparkbyexamples.com/spark/spark-dataframe-union-and-union-all/
 * https://sparkbyexamples.com/spark/spark-read-csv-file-into-dataframe/
+* https://stackoverflow.com/questions/54489344/apply-a-function-to-all-cells-in-spark-dataframe
+* https://sparkbyexamples.com/spark/spark-add-new-column-to-dataframe/
+* https://sparkbyexamples.com/spark/spark-sql-distinct-multiple-columns/#:~:text=Spark%20doesn't%20have%20a,DataFrame%20with%20duplicate%20rows%20removed
+* https://databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html
+* https://stackoverflow.com/questions/43114445/how-to-use-first-and-last-function-in-pyspark
+* https://sparkbyexamples.com/spark/spark-sql-aggregate-functions/
+* https://stackoverflow.com/questions/40671206/using-spark-dataframe-and-window-functions-to-calculate-the-rolling-average-retu
+* https://stackoverflow.com/questions/36725353/applying-a-window-function-to-calculate-differences-in-pyspark
+* https://riptutorial.com/apache-spark/example/22861/window-functions---sort--lead--lag---rank---trend-analysis
+
