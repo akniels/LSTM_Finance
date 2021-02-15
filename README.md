@@ -6,6 +6,7 @@ This shows the step by step process for making a Lont Short Term Memory predicti
 ## Acknowledgements
 Yfinance code examples
 * https://github.com/ranaroussi/yfinance
+
 Spark Code examples
 * https://towardsdatascience.com/create-your-first-etl-pipeline-in-apache-spark-and-python-ec3d12e2c169
 * https://www.udacity.com/course/learn-spark-at-udacity--ud2002
