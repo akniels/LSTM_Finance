@@ -22,3 +22,7 @@ Spark Code examples
 * https://stackoverflow.com/questions/36725353/applying-a-window-function-to-calculate-differences-in-pyspark
 * https://riptutorial.com/apache-spark/example/22861/window-functions---sort--lead--lag---rank---trend-analysis
 
+Plotly
+* https://plotly.com/python/ipython-notebook-tutorial/
+* https://plotly.com/python/line-charts/
+
